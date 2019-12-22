@@ -32,7 +32,7 @@
 
 NSString *const kPWD = @"password";
 NSString *const kUSER = @"CDVGCTouchID";
-NSString *const kSERVER = @"GCSERVER";
+NSString *const kSERVER = @"www.GCSERVER.com";
 
 -(void)isAvailable:(CDVInvokedUrlCommand *)command {
     
